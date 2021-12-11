@@ -1,2 +1,7 @@
 1
+<<<<<<< HEAD
 naprawa bledu
+=======
+2
+3
+>>>>>>> prostawersja
